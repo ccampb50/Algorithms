@@ -1,5 +1,3 @@
-package Arrays;
-
 public class highInterfacedArray {
 
     private int[] arr;
@@ -8,7 +6,7 @@ public class highInterfacedArray {
     public highInterfacedArray(int size){
         arr = new int[size];
         numOfElements = 0; 
-    }
+    }p
 
     public void insert(int data){
         

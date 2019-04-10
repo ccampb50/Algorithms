@@ -12,8 +12,7 @@ public class LinkedList{
 			name = "";
 		}
 		
-		public Item(int ID, String name){
-			
+		public Item(int ID, String name){		
 			itemID = ID;
 			this.name = name;	
 		}
@@ -96,4 +95,5 @@ public class LinkedList{
 
 		list.displayLinkedList();	
 	}
+	
 }
